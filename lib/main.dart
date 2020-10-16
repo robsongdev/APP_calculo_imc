@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: Home(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
@@ -129,7 +130,8 @@ class _HomeState extends State<Home> {
                           ),
                           color: Colors.green,
                           onPressed: () {
-                            if (_formKey.currentState.validate()) { //verificação ao apertar o botao
+                            if (_formKey.currentState.validate()) {
+                              //verificação ao apertar o botao
                               _calculate();
                             }
                           }),
