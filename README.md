@@ -1,4 +1,4 @@
-<h1 align="center">App Calcuclo IMC</h1>
+<h1 align="center">App Calculo IMC</h1>
 
 <p align="center">Aplicativo que calcula o seu IMC inserindo o peso e altura.</p>
 
