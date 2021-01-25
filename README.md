@@ -15,11 +15,11 @@
 </h4>
 
 <p align="center">
-  <a href="#-descricao">Sobre</a> •
+  <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-tecnologias">Tecnologias</a> •
   <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-como-rodar">Como Rodar</a> •
-  <a href="#-licenc-a">Licença</a> •
+  <a href="#-como-rodar-o-projeto">Como Rodar</a> •
+  <a href="#-licença">Licença</a> •
   <a href="#-autor">Autor</a>
 </p>
 
@@ -35,7 +35,7 @@
 
 ## 🛠 Tecnologias
 
-###[Flutter](https://flutter.dev/) e [Dart](https://dart.dev/) ultilizando as seguintes dependencias:
+### [Flutter](https://flutter.dev/) e [Dart](https://dart.dev/) ultilizando as seguintes dependencias:
   
 -  **[cupertino icons](https://pub.dev/packages/cupertino_icons)**
 -  **[flutter launcher icons](https://pub.dev/packages/flutter_launcher_icons)**
