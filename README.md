@@ -1,3 +1,4 @@
+<img alt="icon" title="#icon" src="https://i.imgur.com/o4TXjcP.png" width="100px" align = "left"> <br>
 <h1 align="center">App Calculo IMC</h1>
 
 <p align="center">Aplicativo que calcula o seu IMC inserindo o peso e altura.</p>
@@ -47,7 +48,7 @@
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions: [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 ---
 
-## ⚙️ Funcionalidades
+## 📝 Funcionalidades
 
 - [x] Calculo IMC 
 - [x] Validação de itens
